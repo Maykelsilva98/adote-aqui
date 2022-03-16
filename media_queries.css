@@ -1,0 +1,20 @@
+@media (max-width: 450px){
+    .logo{
+        display: none;
+    }
+    header{
+        justify-content: center;
+        width: 100vw;
+    }
+    nav{
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+    }
+    #home{
+        flex-direction: column;
+        justify-content: space-between;
+    
+    }
+} 

@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root{
+    --background-color-1: #4A6D7C;
+    --background-color-2: #D7D0C8;
+}
