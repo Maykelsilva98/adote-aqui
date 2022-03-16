@@ -1,6 +1,13 @@
+body{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 a{
     text-decoration: none;
 }
+
 
 main{
     display: flex;
